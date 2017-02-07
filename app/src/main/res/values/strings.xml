@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BluetoothDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn off</string>
+    <string name="Visible">Get Visible</string>
+    <string name="List">List Devices</string>
 </resources>
